@@ -1,0 +1,38 @@
+name: Daily Node Update
+
+on:
+  schedule:
+    # UTC 21:15 = 00:15 MSK (Москва) = 05:15 Beijing (北京)
+    - cron: '15 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-nodes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run update script
+        run: |
+          python3 update_readme.py README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit. Today's node is already up to date."
+          else
+            git commit -m "chore: update daily trial nodes [$(date -u +'%Y-%m-%d')]"
+            git push
+          fi
