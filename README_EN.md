@@ -1,17 +1,16 @@
+<div align="center">
+
 # ⚡ Free Hysteria 2 Russia • High-Speed Anti-Censorship Proxy Nodes
 
-<p align="center">
-  <b>🌐 Language / 语言选择 / Выбор языка:</b><br>
-  <b><a href="README.md">🇷🇺 Русский</a></b> | 
-  <b><a href="README_EN.md">🇬🇧 English</a></b> | 
-  <b><a href="README_CN.md">🇨🇳 简体中文</a></b>
-</p>
+### 🌐 [ 🇬🇧 English ](README_EN.md) &nbsp;•&nbsp; [ 🇷🇺 Русский ](README.md) &nbsp;•&nbsp; [ 🇨🇳 简体中文 ](README_CN.md)
 
 [![Daily Node Update](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml/badge.svg)](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml)
 [![Protocol](https://img.shields.io/badge/Protocol-Hysteria%202%20(QUIC)-blue.svg)](https://v2.hysteria.network/)
 [![Speed](https://img.shields.io/badge/Speed-12%20Mbps%20(4K%2060fps)-brightgreen.svg)](https://ihavean.app/ru/)
 [![Traffic](https://img.shields.io/badge/Daily%20Quota-100%20GB%2Fday-orange.svg)](https://ihavean.app/ru/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
 
 > 🚀 **High-Speed Hysteria 2 Proxy Nodes with Dynamic Port Hopping (37000-38000)** designed to bypass DPI throttling on YouTube (4K), Discord, Telegram, Instagram, and ISP censorship in Russia and restricted regions.  
 > 🔄 **Nodes are automatically updated every 24 hours at 00:00 MSK (UTC+3)**.
@@ -21,7 +20,7 @@
 ## 🎁 Daily Free Nodes (Active Today)
 
 <!-- DYNAMIC_NODE_START -->
-> 🕒 **Last Updated**: `2026-10-09 06:25 MSK` | 🎁 **Daily Quota**: `100 GB/day` | ⚡ **Speed**: `12 Mbps (4K 60fps)`  
+> 🕒 **Last Updated**: `2026-10-09 06:28 MSK` | 🎁 **Daily Quota**: `100 GB/day` | ⚡ **Speed**: `12 Mbps (4K 60fps)`  
 > 🔄 **Daily Key Reset**: Every day at 00:00 MSK (UTC+3)
 
 ### 📌 Active Node Today (1-Click Copy):

@@ -1,10 +1,16 @@
+<div align="center">
+
 # ⚡ Free Hysteria 2 Russia • Бесплатные серверы Hysteria 2 для РФ
+
+### 🌐 [ 🇷🇺 Русский ](README.md) &nbsp;•&nbsp; [ 🇬🇧 English ](README_EN.md) &nbsp;•&nbsp; [ 🇨🇳 简体中文 ](README_CN.md)
 
 [![Daily Node Update](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml/badge.svg)](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml)
 [![Protocol](https://img.shields.io/badge/Protocol-Hysteria%202%20(QUIC)-blue.svg)](https://v2.hysteria.network/)
 [![Speed](https://img.shields.io/badge/Speed-12%20Mbps%20(4K%2060fps)-brightgreen.svg)](https://ihavean.app/ru/)
 [![Traffic](https://img.shields.io/badge/Daily%20Quota-100%20GB%2Fday-orange.svg)](https://ihavean.app/ru/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
 
 > 🚀 **Высокоскоростные серверы Hysteria 2 с прыгающими портами (Port Hopping 37000-38000)** для обхода замедления YouTube (4K), блокировок Discord, Telegram, Instagram и ТСПУ/DPI в РФ.  
 > 🔄 **Узлы обновляются автоматически каждые сутки в 00:00 МСК**.
@@ -14,7 +20,7 @@
 ## 🎁 Актуальные серверы на сегодня (Daily Free Nodes)
 
 <!-- DYNAMIC_NODE_START -->
-> 🕒 **Последнее обновление**: `2026-10-09 06:25 MSK` | 🎁 **Лимит**: `100 ГБ/день` | ⚡ **Скорость**: `12 Мбит/с (4K 60fps)`  
+> 🕒 **Последнее обновление**: `2026-10-09 06:28 MSK` | 🎁 **Лимит**: `100 ГБ/день` | ⚡ **Скорость**: `12 Мбит/с (4K 60fps)`  
 > 🔄 **Сброс ключа**: ежедневно в 00:00 МСК (UTC+3)
 
 ### 📌 Актуальный узел на сегодня (1-Click Copy):

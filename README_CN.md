@@ -1,17 +1,16 @@
+<div align="center">
+
 # ⚡ Free Hysteria 2 Russia • 高速抗封锁抗 QoS 代理节点
 
-<p align="center">
-  <b>🌐 语言选择 / Language / Выбор языка:</b><br>
-  <b><a href="README_CN.md">🇨🇳 简体中文</a></b> | 
-  <b><a href="README_EN.md">🇬🇧 English</a></b> | 
-  <b><a href="README.md">🇷🇺 Русский</a></b>
-</p>
+### 🌐 [ 🇨🇳 简体中文 ](README_CN.md) &nbsp;•&nbsp; [ 🇬🇧 English ](README_EN.md) &nbsp;•&nbsp; [ 🇷🇺 Русский ](README.md)
 
 [![Daily Node Update](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml/badge.svg)](https://github.com/qljfjut/free-hysteria2-russia/actions/workflows/daily-update.yml)
 [![Protocol](https://img.shields.io/badge/Protocol-Hysteria%202%20(QUIC)-blue.svg)](https://v2.hysteria.network/)
 [![Speed](https://img.shields.io/badge/Speed-12%20Mbps%20(4K%2060fps)-brightgreen.svg)](https://ihavean.app/ru/)
 [![Traffic](https://img.shields.io/badge/Daily%20Quota-100%20GB%2Fday-orange.svg)](https://ihavean.app/ru/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
 
 > 🚀 **基于 Hysteria 2 协议与动态端口跳跃（Port Hopping 37000-38000）** 的高速抗审查与抗 QoS 限速节点。专治晚高峰 UDP 断流、运营商 QoS 降速及强 DPI 审查封锁（支持 YouTube 4K、Telegram、Discord、Instagram 及全球网页自由访问）。  
 > 🔄 **节点每天莫斯科时间 00:00（北京时间 05:00）全自动更新轮换**。
@@ -21,7 +20,7 @@
 ## 🎁 今日活跃免费测试节点（每日更新）
 
 <!-- DYNAMIC_NODE_START -->
-> 🕒 **最近更新时间**: `2026-10-09 06:25 MSK` | 🎁 **每日免费配额**: `100 GB/天` | ⚡ **连接速率**: `12 Mbps (4K 60fps 秒开)`  
+> 🕒 **最近更新时间**: `2026-10-09 06:28 MSK` | 🎁 **每日免费配额**: `100 GB/天` | ⚡ **连接速率**: `12 Mbps (4K 60fps 秒开)`  
 > 🔄 **凭证轮换时钟**: 每天 00:00 莫斯科时间（北京时间 05:00）全自动重置
 
 ### 📌 今日最新节点（点击代码块一键复制）:
