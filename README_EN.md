@@ -12,7 +12,7 @@
 
 </div>
 
-> 🚀 **High-Speed Hysteria 2 Proxy Nodes with Dynamic Port Hopping (37000-38000)** designed to bypass DPI throttling on YouTube (4K), Discord, Telegram, Instagram, and ISP censorship in Russia and restricted regions.  
+> 🚀 **High-Speed Hysteria 2 Proxy Nodes with Dynamic Port Hopping** designed to bypass DPI throttling on YouTube (4K), Discord, Telegram, Instagram, and ISP censorship in Russia and restricted regions.  
 > 🔄 **Nodes are automatically updated every 24 hours at 00:00 MSK (UTC+3)**.
 
 ---
@@ -76,13 +76,13 @@ https://ihavean.app/sub/trial100g?key=a3473e69
 | :--- | :---: | :---: | :---: |
 | **YouTube 4K Playback** | ❌ Throttled to 128 Kbps | ⚠️ Frequent Buffering | ✅ **12 Mbps Unthrottled** |
 | **Resistance to Deep Packet Inspection (DPI)** | ❌ Blocked by protocol fingerprint | ⚠️ Heuristic Detection | ✅ **QUIC Masqueraded as HTTPS** |
-| **Resistance to Single-Port UDP QoS** | ❌ Severely rate-limited | ❌ Throttled by ISP | ✅ **Dynamic Port Hopping (37000-38000)** |
+| **Resistance to Single-Port UDP QoS** | ❌ Severely rate-limited | ❌ Throttled by ISP | ✅ **Dynamic Port Hopping Technology** |
 | **High Packet Loss Performance** | Speed drops by 70%+ | Ping spikes to 2000ms+ | ✅ **Custom BBR / BBR2 Congestion Control** |
 
 ---
 
 ## ⚖️ Usage Policy & Security
-* Nodes are protected with strict outbound ACLs (no spamming, SMTP ports 25/465/587 blocked, private IP ranges blocked);
+* Nodes are protected with strict outbound security sandboxing and anti-abuse policies;
 * Dedicated for personal research, study, media streaming, and anti-censorship;
 * Credentials rotate automatically every 24 hours. Star this repository (**⭐ Star**) or join [@ihaveanapp_ru](https://t.me/ihaveanapp_ru) to stay updated!
 

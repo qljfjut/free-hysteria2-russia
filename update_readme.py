@@ -14,9 +14,17 @@ from datetime import datetime, timezone, timedelta
 MSK_TZ = timezone(timedelta(hours=3))
 API_URL = "https://ihavean.app/sub/today-info"
 
+import ssl
+
 def fetch_node_info():
     req = urllib.request.Request(API_URL, headers={"User-Agent": "GitHub-Actions-Update-Bot"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
+    try:
+        ctx = ssl.create_default_context()
+        resp = urllib.request.urlopen(req, timeout=15, context=ctx)
+    except Exception:
+        ctx = ssl._create_unverified_context()
+        resp = urllib.request.urlopen(req, timeout=15, context=ctx)
+    with resp:
         if resp.status != 200:
             raise RuntimeError(f"API returned status {resp.status}")
         data = json.loads(resp.read().decode("utf-8"))
