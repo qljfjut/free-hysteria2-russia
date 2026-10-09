@@ -21,18 +21,18 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run update script
+      - name: Run multi-language update script
         run: |
-          python3 update_readme.py README.md
+          python3 update_readme.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md README_EN.md README_CN.md
           if git diff --staged --quiet; then
-            echo "No changes to commit. Today's node is already up to date."
+            echo "No changes to commit. Today's nodes are already up to date."
           else
-            git commit -m "chore: update daily trial nodes [$(date -u +'%Y-%m-%d')]"
+            git commit -m "chore: update daily trial nodes across all languages [$(date -u +'%Y-%m-%d')]"
             git push
           fi

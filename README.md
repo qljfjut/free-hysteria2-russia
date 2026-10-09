@@ -14,7 +14,7 @@
 ## 🎁 Актуальные серверы на сегодня (Daily Free Nodes)
 
 <!-- DYNAMIC_NODE_START -->
-> 🕒 **Последнее обновление**: `2026-10-09 06:16 MSK` | 🎁 **Лимит**: `100 ГБ/день` | ⚡ **Скорость**: `12 Мбит/с (4K 60fps)`  
+> 🕒 **Последнее обновление**: `2026-10-09 06:25 MSK` | 🎁 **Лимит**: `100 ГБ/день` | ⚡ **Скорость**: `12 Мбит/с (4K 60fps)`  
 > 🔄 **Сброс ключа**: ежедневно в 00:00 МСК (UTC+3)
 
 ### 📌 Актуальный узел на сегодня (1-Click Copy):
@@ -28,7 +28,7 @@ hy2://trial_100g:hy2_trial_8m4k_20261009@ru.ihavean.app:63779/?insecure=1&sni=he
 ```text
 https://ihavean.app/sub/trial100g?key=a3473e69
 ```
-*(Подходит для v2rayN, Nekoray, NekoBox, Sing-box, Clash Meta, Shadowrocket)*
+*(Подходит для v2rayN, Nekoray, NekoBox, Sing-box, Clash Meta, Shadowrocket, Surge)*
 <!-- DYNAMIC_NODE_END -->
 
 ---
